@@ -28,15 +28,11 @@ In the activated virtual environment, run the following command:
 pip install -r requirements.txt
 ```
 
-### 3. Insert Assets
-
-Create a folder named `static` and insert the assets folder into it.
-
-### 4. Configuration
+### 3. Configuration
 
 Replace `sender_email` with your email address. Email will be sent from your email ID. For the `passcode`, use your Google App password. To generate an App password, enable 2-factor authentication if not enabled. Create an app name, and an app password will be generated. Copy it and replace `passcode` with it. Now, you can send emails to mentor/mentee email IDs from your email ID.
 
-### 5. Running the Application
+### 4. Running the Application
 
 Run the following command:
 
